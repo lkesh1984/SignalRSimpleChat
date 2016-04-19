@@ -1,0 +1,17 @@
+E:\Test Project\ConsoleTest\SignalRSimpleChat\bin\SignalRSimpleChat.dll
+E:\Test Project\ConsoleTest\SignalRSimpleChat\bin\SignalRSimpleChat.pdb
+E:\Test Project\ConsoleTest\SignalRSimpleChat\obj\Debug\SignalRSimpleChat.dll
+E:\Test Project\ConsoleTest\SignalRSimpleChat\obj\Debug\SignalRSimpleChat.pdb
+E:\Test Project\ConsoleTest\SignalRSimpleChat\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Test Project\ConsoleTest\SignalRSimpleChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Test Project\ConsoleTest\SignalRSimpleChat\bin\Microsoft.Owin.dll
+E:\Test Project\ConsoleTest\SignalRSimpleChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Test Project\ConsoleTest\SignalRSimpleChat\bin\Microsoft.Owin.Security.dll
+E:\Test Project\ConsoleTest\SignalRSimpleChat\bin\Newtonsoft.Json.dll
+E:\Test Project\ConsoleTest\SignalRSimpleChat\bin\Owin.dll
+E:\Test Project\ConsoleTest\SignalRSimpleChat\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Test Project\ConsoleTest\SignalRSimpleChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Test Project\ConsoleTest\SignalRSimpleChat\bin\Microsoft.Owin.xml
+E:\Test Project\ConsoleTest\SignalRSimpleChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Test Project\ConsoleTest\SignalRSimpleChat\bin\Microsoft.Owin.Security.xml
+E:\Test Project\ConsoleTest\SignalRSimpleChat\bin\Newtonsoft.Json.xml
